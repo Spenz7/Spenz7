@@ -1,5 +1,7 @@
 # Hi, I'm Spencer Ng 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Spenz7&color=blue)
+
 I’ve been coding since I was 13 and am currently studying Computer Science at Nanyang Technological University. I’m most motivated when I understand how things truly work — from software abstractions to the underlying systems.  
 
 I focus primarily on **software development**, building projects like web applications, full-stack platforms, and AI models. I also enjoy exploring how software interacts with hardware, such as microcontrollers or IoT systems, which helps me better understand end-to-end engineering.  
@@ -7,11 +9,11 @@ I focus primarily on **software development**, building projects like web applic
 Beyond coding, I enjoy football, piano, and Japanese culture. My favorite movie is *Pacific Rim 1* (not 2!) and I’m a longtime fan of the Gundam franchise.  
 
 ## Skills
-**Programming:** Python, C, C++, Java, SQL, HTML/CSS, JavaScript, Go (learning now), Verilog, Assembly  
-**Frameworks:** Flask, PyTorch, React (learning now)
-**Developer Tools:** VSCode, GitHub, Jupyter Notebook, MongoDB, Node-RED, Arduino, PuTTY, Docker (learning now) 
-**Libraries:** sqlite3, PyMongo, Socket  
-
+- **Programming:** Python, C, C++, Java, SQL, HTML/CSS, JavaScript, Go (learning now), Verilog, Assembly
+- **Frameworks:** Flask, PyTorch, React (learning now)
+- **Developer Tools:** VSCode, GitHub, Jupyter Notebook, MongoDB, Node-RED, Arduino, PuTTY, Docker (learning now)
+- **Libraries:** sqlite3, PyMongo, Socket
+  
 ## Personal Projects
 - **[StudyFilter Extension](https://github.com/Spenz7/StudyFilter)** – Chrome extension that filters YouTube and Reddit content by topic using AI; secured API via Cloudflare Workers.  
 - **[Vtuber Project](https://github.com/Spenz7/Vtuber)** – Custom anime-style voice changer and avatar system with real-time interaction.  
