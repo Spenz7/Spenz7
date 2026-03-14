@@ -1,4 +1,4 @@
-# Hi, I'm Spencer Ng 👋
+# Hi, I'm Spencer 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Spenz7&color=blue)
 
