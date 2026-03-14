@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Spenz7&color=blue)
 
-I’ve been coding since I was 13 and am currently studying Computer Science at Nanyang Technological University. I’m most motivated when I understand how things truly work — from software abstractions to the underlying systems.  
+I’ve been coding since I was 13 and am currently studying Computer Science at Nanyang Technological University. I find myself happiest when I understand how things truly work — from software abstractions to the underlying systems.  
 
 I focus primarily on **software development**, building projects like web applications, full-stack platforms, and AI models. I also enjoy exploring how software interacts with hardware, such as microcontrollers or IoT systems, which helps me better understand end-to-end engineering.  
 
