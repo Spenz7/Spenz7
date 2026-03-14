@@ -6,7 +6,7 @@ I’ve been coding since I was 13 and am currently studying Computer Science at 
 
 I focus primarily on **software development**, building projects like web applications, full-stack platforms, and AI models. I also enjoy exploring how software interacts with hardware, such as microcontrollers or IoT systems, which helps me better understand end-to-end engineering.  
 
-Beyond coding, I enjoy football, piano, and Japanese culture. My favorite movie is *Pacific Rim 1* (not 2!) and I’m a longtime fan of the Gundam franchise.  
+Beyond coding, I enjoy football, piano, and Japanese culture. My favorite movie is **Pacific Rim 1** (not 2!) and I’m a longtime fan of the Gundam franchise.  
 
 ## Skills
 - **Programming:** Python, C, C++, Java, SQL, HTML/CSS, JavaScript, Go (learning now), Verilog, Assembly
