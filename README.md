@@ -26,4 +26,4 @@ Beyond coding, I enjoy football, piano, and Japanese culture. My favorite movie 
 ## Open-Source / Community Projects
 - **[Plan (NTU Stars Planner)](https://github.com/kenrick95/plan)** – Contributed features and improvements to a campus planning tool.
 - **[GameSentenceMiner](https://github.com/bpwhelan/GameSentenceMiner)** – Trying to add DeepL's translation to aid with language learning
-- **[Voice-changer](https://github.com/deiteris/voice-changer)** - Fork from w-okada's Voice changer, served as an imporatnt resource for my Vtuber Project
+- **[Voice-changer](https://github.com/deiteris/voice-changer)** - Fork from w-okada's Voice changer, serves as an important resource for my Vtuber Project
