@@ -15,7 +15,7 @@ Beyond coding, I enjoy football, piano, and Japanese culture. My favorite movie 
 - **Libraries:** sqlite3, PyMongo, Socket
   
 ## Personal Projects
-- **[StudyFilter Extension](https://github.com/Spenz7/StudyFilter)** – Chrome extension that filters YouTube and Reddit content by topic using AI; secured API via Cloudflare Workers.  
+- **[StudyFilter Extension](https://github.com/Spenz7/StudyFilter)** – Chrome extension that filters YouTube/Google and Reddit content by topic using AI; secured API via Cloudflare Workers.  
 - **[Vtuber Project](https://github.com/Spenz7/Vtuber)** – Custom anime-style voice changer and avatar system with real-time interaction.  
 - **[Personal Website](https://Spenz7.github.io)** – Links to my Github, Youtube and Linkedin
 
@@ -24,6 +24,6 @@ Beyond coding, I enjoy football, piano, and Japanese culture. My favorite movie 
 - **[Commission Bidding Platform](https://github.com/Spenz7/SC2006_SWE)** – Full-stack web app for property agents to bid on seller listings; integrated Twilio SMS OTP and data.gov.sg APIs.  
 
 ## Open-Source / Community Projects
-- **[Plan (NTU Stars Planner)](https://github.com/kenrick95/plan)** – Contributed features and improvements to a campus planning tool.
+- **[Plan (NTU Stars Planner)](https://github.com/kenrick95/plan)** – Contributed features and improvements to a campus timetable planning tool.
 - **[GameSentenceMiner](https://github.com/bpwhelan/GameSentenceMiner)** – Trying to add DeepL's translation to aid with language learning
 - **[Voice-changer](https://github.com/deiteris/voice-changer)** - Fork from w-okada's Voice changer, serves as an important resource for my Vtuber Project
