@@ -10,8 +10,8 @@ Beyond coding, I enjoy football, piano, and Japanese culture. My favorite movie 
 
 ## Skills
 - **Programming:** Python, C, C++, Java, SQL, HTML/CSS, JavaScript, Go (learning now), Verilog, Assembly
-- **Frameworks:** Flask, PyTorch, React (learning now)
-- **Developer Tools:** VSCode, GitHub, Jupyter Notebook, MongoDB, Node-RED, Arduino, PuTTY, Docker (learning now)
+- **Frameworks:** Flask, PyTorch, Angular, React (learning now)
+- **Developer Tools:** VSCode, GitHub, Jupyter Notebook, MongoDB, Node-RED, Arduino, PuTTY, Docker, Terraform
 - **Libraries:** sqlite3, PyMongo, Socket
   
 ## Personal Projects
